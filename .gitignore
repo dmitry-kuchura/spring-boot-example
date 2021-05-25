@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea
+.idea/
+.idea/*
+.idea/php.xml
+
+# Project exclude paths
+/target/
